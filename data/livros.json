@@ -1,0 +1,6 @@
+[
+    {"id": 1, "titulo": "Dom Casmurro", "autor": "Machado de Assis", "ano": 1889, "disponivel": true},
+    {"id": 2, "titulo": "Vidas Secas", "autor": "Graciliano Ramos", "ano": 1930, "disponivel": false},
+    {"id": 3, "titulo": "O Tempo e o Vento", "autor": "Érico Veríssimo", "ano": 1949, "disponivel": true},
+    {"id": 4, "titulo": "Capitães de Areia", "autor": "Jorge Amado", "ano": 1937, "disponivel": true}
+]
